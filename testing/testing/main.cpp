@@ -93,8 +93,7 @@ string changeBack(double change){
 }
 
 void test_change_back(){
-    cout << "change back test started" << endl;
-    cout << changeBack(2.71) << endl;
+
     
 
     
@@ -105,15 +104,16 @@ void test_change_back(){
    assert(changeBack(2.71) == "2 dollars, 2 quarters, 2 dimes, 0 nickels, 1 penney");
    assert(changeBack(37.99) == "37 dollars, 3 quarters, 2 dimes, 0 nickels, 4 pennies");
     
-    cout << "ended" << endl;
+
 }
 
 
 
 int main(int argc, const char * argv[]) {
 
-    
-    test_change_back();
+
+    changeBack(13.45);
+
 
     return 0;
 }
