@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>09A6B54E-C62E-44D2-9D38-6BAF7E618FDD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>09A6B54E-C62E-44D2-9D38-6BAF7E618FDD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lab9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lab9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lab9</string>
+			<key>timeStartedRecording</key>
+			<real>639075047.97028697</real>
+			<key>timeStoppedRecording</key>
+			<real>639075048.82416296</real>
+			<key>title</key>
+			<string>Build lab9</string>
+			<key>uniqueIdentifier</key>
+			<string>09A6B54E-C62E-44D2-9D38-6BAF7E618FDD</string>
+		</dict>
+		<key>E9914F20-868A-456A-8449-A057667FF258</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E9914F20-868A-456A-8449-A057667FF258.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lab9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lab9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build lab9</string>
+			<key>timeStartedRecording</key>
+			<real>639074892.964324</real>
+			<key>timeStoppedRecording</key>
+			<real>639074894.07591605</real>
+			<key>title</key>
+			<string>Build lab9</string>
+			<key>uniqueIdentifier</key>
+			<string>E9914F20-868A-456A-8449-A057667FF258</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

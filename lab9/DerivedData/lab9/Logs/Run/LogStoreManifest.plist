@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>CC54FA0D-D325-424A-BA64-7AB8B671A35D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CC54FA0D-D325-424A-BA64-7AB8B671A35D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lab9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lab9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run lab9</string>
+			<key>timeStartedRecording</key>
+			<real>639074894.07839096</real>
+			<key>timeStoppedRecording</key>
+			<real>639074910.35080695</real>
+			<key>title</key>
+			<string>Run lab9</string>
+			<key>uniqueIdentifier</key>
+			<string>CC54FA0D-D325-424A-BA64-7AB8B671A35D</string>
+		</dict>
+		<key>F4FAD004-3806-48D3-B846-01EFE3953104</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F4FAD004-3806-48D3-B846-01EFE3953104.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lab9 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lab9</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run lab9</string>
+			<key>timeStartedRecording</key>
+			<real>639075048.82678401</real>
+			<key>timeStoppedRecording</key>
+			<real>639075054.07900798</real>
+			<key>title</key>
+			<string>Run lab9</string>
+			<key>uniqueIdentifier</key>
+			<string>F4FAD004-3806-48D3-B846-01EFE3953104</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

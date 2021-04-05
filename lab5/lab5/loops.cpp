@@ -27,71 +27,63 @@ void printRectangle(int row, int col) {
 
     
     for (int i = 0; i < row; i++) {
+        string line = "";
         
         for (int j = 0; j < col; j++) {
-            cout << '*';
+            line += '*';
         }
-        cout << endl;
+        cout << line << endl;
     }
 }
 
 void printRight(int n) {
-    string wholeRow;
+    string line;
     
     for (int i = 0; i < n; i++) {
-        wholeRow += '*';
-        cout << wholeRow;
-        cout << endl;
+        line += '*';
+        cout << line << endl;
     }
 }
 
 void printRightJustified(int n) {
-  
-    
-    int i, j, rows;
+    string line = "";
 
-     rows = n;
-     for (i = 1; i <= rows; i++)
-     {
-         for (j = 1; j <= rows - i; j++)
-         {
-             cout << " ";
+   
+     for (int i = 1; i <= n; i++) {
+         line = "";
+         
+         for (int j = 1; j <= n - i; j++) {
+             line += " ";
          }
 
-         for (j = 1; j <= i; j++)
-         {
-             cout << '*';
+         for (int j = 1; j <= i; j++) {
+             line += '*';
              
          }
-         cout << endl;
+         cout << line << endl;
      }
 }
 
 void printIsosceles(int n) {
     string line = "";
     
-    // make print 3 by 5
-    
-    //replace all on the close side.
-    int space;
-    int rows = n;
-    int k;
-    
+    double te = 1000.;
 
-        
-
-        for(int i = 1; i <= rows; ++i) {
+        for(int i = 1; i <= n; ++i) {
+            line = "";
             
-            for(space = 1; space <= rows - i; space++)
+            for(int j = 1; j <= n - i; j++)
             {
-                cout << " ";
+                line += " ";
             }
 
-            for(k = 0; k < 2 * i - 1; k++)
+            for(int k = 0; k < 2 * i - 1; k++)
             {
-                cout << "*";
+                line += "*";
             }
-            cout << endl;
+            cout << line << endl;
         }
     
 };
+
+

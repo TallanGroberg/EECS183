@@ -10,6 +10,7 @@
 		A08CA57925DB06CE00C74B3F /* coinCounter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A08CA57825DB06CE00C74B3F /* coinCounter.cpp */; };
 		A08CA57D25DB16FA00C74B3F /* seatArrangement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A08CA57B25DB16FA00C74B3F /* seatArrangement.cpp */; };
 		A0BFCC3025C0613C00772E90 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0BFCC2F25C0613C00772E90 /* main.cpp */; };
+		A0C464E7260E3CD000355DDA /* intarr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C464E6260E3CD000355DDA /* intarr.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,7 +29,9 @@
 		A08CA57825DB06CE00C74B3F /* coinCounter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = coinCounter.cpp; sourceTree = "<group>"; };
 		A08CA57B25DB16FA00C74B3F /* seatArrangement.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = seatArrangement.cpp; sourceTree = "<group>"; };
 		A0BFCC2C25C0613C00772E90 /* testing */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = testing; sourceTree = BUILT_PRODUCTS_DIR; };
-		A0BFCC2F25C0613C00772E90 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		A0BFCC2F25C0613C00772E90 /* main.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; path = main.cpp; sourceTree = "<group>"; };
+		A0C464E6260E3CD000355DDA /* intarr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = intarr.cpp; sourceTree = "<group>"; };
+		A0C464E9260E3D5B00355DDA /* words.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = words.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 				A0BFCC2F25C0613C00772E90 /* main.cpp */,
 				A08CA57825DB06CE00C74B3F /* coinCounter.cpp */,
 				A08CA57B25DB16FA00C74B3F /* seatArrangement.cpp */,
+				A0C464E6260E3CD000355DDA /* intarr.cpp */,
+				A0C464E9260E3D5B00355DDA /* words.txt */,
 			);
 			path = testing;
 			sourceTree = "<group>";
@@ -127,6 +132,7 @@
 				A08CA57D25DB16FA00C74B3F /* seatArrangement.cpp in Sources */,
 				A0BFCC3025C0613C00772E90 /* main.cpp in Sources */,
 				A08CA57925DB06CE00C74B3F /* coinCounter.cpp in Sources */,
+				A0C464E7260E3CD000355DDA /* intarr.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

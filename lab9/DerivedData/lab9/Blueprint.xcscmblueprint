@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D062E506CEC7FED8DE81836141612A744E03B718",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D062E506CEC7FED8DE81836141612A744E03B718" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "617C50F5-DAC8-4909-BA21-AAF385D4F850",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D062E506CEC7FED8DE81836141612A744E03B718" : "misc\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "lab9",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "lab9\/lab9.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:TallanGroberg\/EECS183.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D062E506CEC7FED8DE81836141612A744E03B718"
+    }
+  ]
+}
