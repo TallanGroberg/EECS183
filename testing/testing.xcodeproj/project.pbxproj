@@ -7,10 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A00873F4267E53FE00946DB6 /* pairFinding.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A00873F3267E53FE00946DB6 /* pairFinding.cpp */; };
+		A043DD06261E6791000D38C7 /* printZs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A043DD05261E6791000D38C7 /* printZs.cpp */; };
 		A08CA57925DB06CE00C74B3F /* coinCounter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A08CA57825DB06CE00C74B3F /* coinCounter.cpp */; };
 		A08CA57D25DB16FA00C74B3F /* seatArrangement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A08CA57B25DB16FA00C74B3F /* seatArrangement.cpp */; };
-		A0BFCC3025C0613C00772E90 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0BFCC2F25C0613C00772E90 /* main.cpp */; };
+		A0BFCC3025C0613C00772E90 /* gpa.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0BFCC2F25C0613C00772E90 /* gpa.cpp */; };
 		A0C464E7260E3CD000355DDA /* intarr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0C464E6260E3CD000355DDA /* intarr.cpp */; };
+		A0F469A52623619800FDCC93 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0F469A42623619800FDCC93 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,12 +29,15 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A00873F3267E53FE00946DB6 /* pairFinding.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = pairFinding.cpp; sourceTree = "<group>"; };
+		A043DD05261E6791000D38C7 /* printZs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = printZs.cpp; sourceTree = "<group>"; };
 		A08CA57825DB06CE00C74B3F /* coinCounter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = coinCounter.cpp; sourceTree = "<group>"; };
 		A08CA57B25DB16FA00C74B3F /* seatArrangement.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = seatArrangement.cpp; sourceTree = "<group>"; };
 		A0BFCC2C25C0613C00772E90 /* testing */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = testing; sourceTree = BUILT_PRODUCTS_DIR; };
-		A0BFCC2F25C0613C00772E90 /* main.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; path = main.cpp; sourceTree = "<group>"; };
+		A0BFCC2F25C0613C00772E90 /* gpa.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; path = gpa.cpp; sourceTree = "<group>"; };
 		A0C464E6260E3CD000355DDA /* intarr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = intarr.cpp; sourceTree = "<group>"; };
 		A0C464E9260E3D5B00355DDA /* words.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = words.txt; sourceTree = "<group>"; };
+		A0F469A42623619800FDCC93 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,11 +70,14 @@
 		A0BFCC2E25C0613C00772E90 /* testing */ = {
 			isa = PBXGroup;
 			children = (
-				A0BFCC2F25C0613C00772E90 /* main.cpp */,
+				A0BFCC2F25C0613C00772E90 /* gpa.cpp */,
 				A08CA57825DB06CE00C74B3F /* coinCounter.cpp */,
 				A08CA57B25DB16FA00C74B3F /* seatArrangement.cpp */,
 				A0C464E6260E3CD000355DDA /* intarr.cpp */,
 				A0C464E9260E3D5B00355DDA /* words.txt */,
+				A043DD05261E6791000D38C7 /* printZs.cpp */,
+				A0F469A42623619800FDCC93 /* main.cpp */,
+				A00873F3267E53FE00946DB6 /* pairFinding.cpp */,
 			);
 			path = testing;
 			sourceTree = "<group>";
@@ -130,7 +139,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				A08CA57D25DB16FA00C74B3F /* seatArrangement.cpp in Sources */,
-				A0BFCC3025C0613C00772E90 /* main.cpp in Sources */,
+				A0BFCC3025C0613C00772E90 /* gpa.cpp in Sources */,
+				A00873F4267E53FE00946DB6 /* pairFinding.cpp in Sources */,
+				A0F469A52623619800FDCC93 /* main.cpp in Sources */,
+				A043DD06261E6791000D38C7 /* printZs.cpp in Sources */,
 				A08CA57925DB06CE00C74B3F /* coinCounter.cpp in Sources */,
 				A0C464E7260E3CD000355DDA /* intarr.cpp in Sources */,
 			);
