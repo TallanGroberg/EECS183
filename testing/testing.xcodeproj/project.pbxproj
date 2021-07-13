@@ -9,6 +9,14 @@
 /* Begin PBXBuildFile section */
 		A00873F4267E53FE00946DB6 /* pairFinding.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A00873F3267E53FE00946DB6 /* pairFinding.cpp */; };
 		A043DD06261E6791000D38C7 /* printZs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A043DD05261E6791000D38C7 /* printZs.cpp */; };
+		A0750FB42681326F004BBA7D /* isPerm.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0750FB32681326F004BBA7D /* isPerm.cpp */; };
+		A0750FB726840C25004BBA7D /* urlify.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0750FB626840C25004BBA7D /* urlify.cpp */; };
+		A0750FBA2684152F004BBA7D /* isPalinPerm.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0750FB92684152F004BBA7D /* isPalinPerm.cpp */; };
+		A0750FBD268623DC004BBA7D /* offByOne.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0750FBC268623DC004BBA7D /* offByOne.cpp */; };
+		A0750FC0268629A5004BBA7D /* compressString.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0750FBF268629A5004BBA7D /* compressString.cpp */; };
+		A0750FC32687D9B4004BBA7D /* rotateMatrix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0750FC22687D9B4004BBA7D /* rotateMatrix.cpp */; };
+		A0750FC6268A64AC004BBA7D /* zeroMatrix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0750FC5268A64AC004BBA7D /* zeroMatrix.cpp */; };
+		A0750FC9268BBBAA004BBA7D /* isRotation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0750FC8268BBBAA004BBA7D /* isRotation.cpp */; };
 		A08CA57925DB06CE00C74B3F /* coinCounter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A08CA57825DB06CE00C74B3F /* coinCounter.cpp */; };
 		A08CA57D25DB16FA00C74B3F /* seatArrangement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A08CA57B25DB16FA00C74B3F /* seatArrangement.cpp */; };
 		A0BFCC3025C0613C00772E90 /* gpa.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A0BFCC2F25C0613C00772E90 /* gpa.cpp */; };
@@ -31,6 +39,14 @@
 /* Begin PBXFileReference section */
 		A00873F3267E53FE00946DB6 /* pairFinding.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = pairFinding.cpp; sourceTree = "<group>"; };
 		A043DD05261E6791000D38C7 /* printZs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = printZs.cpp; sourceTree = "<group>"; };
+		A0750FB32681326F004BBA7D /* isPerm.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = isPerm.cpp; sourceTree = "<group>"; };
+		A0750FB626840C25004BBA7D /* urlify.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = urlify.cpp; sourceTree = "<group>"; };
+		A0750FB92684152F004BBA7D /* isPalinPerm.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = isPalinPerm.cpp; sourceTree = "<group>"; };
+		A0750FBC268623DC004BBA7D /* offByOne.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = offByOne.cpp; sourceTree = "<group>"; };
+		A0750FBF268629A5004BBA7D /* compressString.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = compressString.cpp; sourceTree = "<group>"; };
+		A0750FC22687D9B4004BBA7D /* rotateMatrix.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = rotateMatrix.cpp; sourceTree = "<group>"; };
+		A0750FC5268A64AC004BBA7D /* zeroMatrix.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = zeroMatrix.cpp; sourceTree = "<group>"; };
+		A0750FC8268BBBAA004BBA7D /* isRotation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = isRotation.cpp; sourceTree = "<group>"; };
 		A08CA57825DB06CE00C74B3F /* coinCounter.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = coinCounter.cpp; sourceTree = "<group>"; };
 		A08CA57B25DB16FA00C74B3F /* seatArrangement.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = seatArrangement.cpp; sourceTree = "<group>"; };
 		A0BFCC2C25C0613C00772E90 /* testing */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = testing; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -78,6 +94,14 @@
 				A043DD05261E6791000D38C7 /* printZs.cpp */,
 				A0F469A42623619800FDCC93 /* main.cpp */,
 				A00873F3267E53FE00946DB6 /* pairFinding.cpp */,
+				A0750FB32681326F004BBA7D /* isPerm.cpp */,
+				A0750FB626840C25004BBA7D /* urlify.cpp */,
+				A0750FB92684152F004BBA7D /* isPalinPerm.cpp */,
+				A0750FBC268623DC004BBA7D /* offByOne.cpp */,
+				A0750FBF268629A5004BBA7D /* compressString.cpp */,
+				A0750FC22687D9B4004BBA7D /* rotateMatrix.cpp */,
+				A0750FC5268A64AC004BBA7D /* zeroMatrix.cpp */,
+				A0750FC8268BBBAA004BBA7D /* isRotation.cpp */,
 			);
 			path = testing;
 			sourceTree = "<group>";
@@ -138,9 +162,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0750FC9268BBBAA004BBA7D /* isRotation.cpp in Sources */,
+				A0750FC6268A64AC004BBA7D /* zeroMatrix.cpp in Sources */,
+				A0750FC32687D9B4004BBA7D /* rotateMatrix.cpp in Sources */,
 				A08CA57D25DB16FA00C74B3F /* seatArrangement.cpp in Sources */,
 				A0BFCC3025C0613C00772E90 /* gpa.cpp in Sources */,
 				A00873F4267E53FE00946DB6 /* pairFinding.cpp in Sources */,
+				A0750FBD268623DC004BBA7D /* offByOne.cpp in Sources */,
+				A0750FB726840C25004BBA7D /* urlify.cpp in Sources */,
+				A0750FBA2684152F004BBA7D /* isPalinPerm.cpp in Sources */,
+				A0750FC0268629A5004BBA7D /* compressString.cpp in Sources */,
+				A0750FB42681326F004BBA7D /* isPerm.cpp in Sources */,
 				A0F469A52623619800FDCC93 /* main.cpp in Sources */,
 				A043DD06261E6791000D38C7 /* printZs.cpp in Sources */,
 				A08CA57925DB06CE00C74B3F /* coinCounter.cpp in Sources */,
